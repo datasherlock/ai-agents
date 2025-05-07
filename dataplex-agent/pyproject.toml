@@ -1,9 +1,9 @@
 [project]
-name = "dataproc-agent"
+name = "dataplex-agent"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Your Name", email = "your@email.com"},
+    {name = "Jerome Rajan", email = "contact@jeromerajan.com"},
 ]
 dependencies = [
     "google-adk~=0.1.0",
